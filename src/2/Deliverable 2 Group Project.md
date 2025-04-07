@@ -1,6 +1,5 @@
-### [ :arrow_left: ](/src/1/1.md) | [ HOME ](/README.md) | [ :arrow_right: ](/src/3/3.md)
-
 # Group Project: Cross-Language Development
+
 **Date:** April 06, 2025
 - **Term:** Spring 2025 Second Bi-term 
 - **Class:** Advanced Programming Languages -MSCS-632-B01
@@ -18,8 +17,6 @@
 |  Shashwat Baral   | sbaral29114@ucumberlands.edu    | Developed the Python implementation, emphasizing the use of dynamic typing and the simplicity of Python’s data structures.          |
 |   Samrat Baral    | sbaral29114@ucumberlands.edu    | Implemented the metrics and visualization components, providing side-by-side comparisons of code metrics between the two languages. |
 |  Sahithi Bontha   | sbontha35464@ucumberlands.edu   | Coordinated integration, documentation, and testing, ensuring all contributions were reflected in the GitHub repository.            |
-
-#### REPORT : [ - :notebook_with_decorative_cover: PDF ](/reports/2.pdf)
 ---
 
 # Comparison of Expense Tracker Implementations: C++ vs Python
@@ -39,8 +36,7 @@ Both files are analyzed for key metrics that reflect the implementation of the c
 chmod +x main.sh
 ./main.sh
 ```
-
-- ![Evidence 1](/screenshots/2/Figure_1.png)
+[https://github.com/baralsamrat/MSCS632_Project_Group/blob/main/screenshots/1/Figure_1.png](https://github.com/baralsamrat/MSCS632_Project_Group/blob/main/screenshots/1/Figure_1.png)
 
 ---
 
@@ -74,6 +70,4 @@ Below is a table comparing three major language-specific features—memory manag
 
 Both the C++ and Python implementations of the Expense Tracker meet the core functional requirements, yet each language’s unique features influence the application in different ways. The C++ version benefits from tight control over memory and high performance, while the Python version excels in readability and rapid development. This comparative study underscores the trade-offs inherent in choosing one language over another and demonstrates that both approaches can successfully implement the same core functionality with distinct advantages. 
 
-C++ and Python offer distinct advantages and disadvantages in terms of design, performance, and readability. C++ excels in performance-critical applications with its fine-grained control and static typing. However, it requires careful memory management and can lead to complex code. Python prioritizes ease of use and rapid development with automatic memory management and a rich standard library. While it may have performance limitations, its concise syntax and readability make it suitable for a wide range of applications.
-
----
+C++ and Python offer distinct advantages and disadvantages in terms of design, performance, and readability. C++ excels in performance-critical applications with its fine-grained control and static typing. Python prioritizes ease of use and rapid development with automatic memory management and a rich standard library. While it may have performance limitations, its concise syntax and readability make it suitable for a wide range of applications.
